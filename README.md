@@ -2,6 +2,7 @@
 1. Поправить в файле .env параметры подключения к базе.
 2. Запустить миграции командой:
    php artisan migrate
+   
    В результате чего создадутся основные таблицы: users, courses, lessons, userprogress.
 
 Migration table created successfully.
